@@ -18,7 +18,26 @@ h2 {
   font-weight: bold;
 }
 
+h3 {
+  color: grey;
+  text-align: right;
+  font-weight: normal;
+}
+
 p {
   font-size: 21px;
   color: gray;
+}
+
+a {
+  color: aquamarine;
+  padding-bottom: 10px;
+}
+
+a active {
+  color: aquamarine;
+}
+
+img {
+  padding-bottom: 20px;
 }
